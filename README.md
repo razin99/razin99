@@ -30,8 +30,7 @@
 - Ping me, using literally anything (worst case scenario, submit a PR so that I get an email)
 
 ## 🏃‍♂️ Pronouns
-- `HA/HA` (because I'm a joke, and life is funny)
-- If you don't like jokes: `he/him`
+- he/him
 
 ## ⚡ Fun fact
 - Obsessed with `vim` and its cousin (offspring?) `neovim`
