@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hello fellow humans, I'm Razin 🕵️‍♂️ 👨‍💻
+- 100% not a machine (makes mistakes, but owns up to it)
+- Enjoy learning new concepts
+- Love to build stuff, and also break stuffs (with permission of course)
+- Currently learning about digital forensics, networks and ethics
 
-<!--
-**razin99/razin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on:
+  - Improving my 'resume + blog website'
+    - Hopefully improve the design of the 'resume' page
+    - Add section for 'micro-blogs', query `sanity.io` by using vercel serverless functions as proxy
+  - 'Twitter' like backend
+    - MVP uses redis and postgres
+    - Migrating to firestore, as its free
+    - Not really a passion project, but using it as a tool to teach me:
+      - How to design APIs
+      - Practice TDD
+      - How to deploy
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+  - Rust
+  - Golang
+  - Basic Dev Ops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about why I think C (and its family) is a great 1st language
+- Possibly one of the most polarizing topic
+- No, the reasons are not 'gate-keepy'
+
+## 📫 How to reach me
+- Use OSINT to find my LinkedIn profile (or any where else)
+- Ping me, using literally anything (worst case scenario, submit a PR so that I get an email)
+
+## 🏃‍♂️ Pronouns
+- `HA/HA` (because I'm a joke, and life is funny)
+- If you don't like jokes: `he/him`
+
+## ⚡ Fun fact
+- Obsessed with `vim` and its cousin (offspring?) `neovim`
+- Currently daily-driving [LunarVim](https://github.com/LunarVim/LunarVim)
+- Ocasionally use VSCode
+- Also obsessed with the 'OneDark' color palette
+- Uses LaTeX to write reports, mainly an excuse to procrastinate
