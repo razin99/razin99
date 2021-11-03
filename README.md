@@ -4,6 +4,14 @@
 - Love to build stuff, and also break stuffs (with permission of course)
 - Currently learning about digital forensics, networks and ethics
 
+
+<div align="center">
+
+![Razin's GitHub stats](https://github-readme-stats.vercel.app/api?username=razin99&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razin99&layout=compact&theme=onedark)
+
+</div>
+
 ## 🔭 I’m currently working on:
   - Improving my 'resume + blog website'
     - Hopefully improve the design of the 'resume' page
