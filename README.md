@@ -1,5 +1,5 @@
 # Hello fellow humans, I'm Razin 🕵️‍♂️ 👨‍💻
-- 100% not a machine (makes mistakes, but owns up to it)
+- Is a machine (JK)
 - Enjoy learning new concepts
 - Love to build stuff, and also break stuffs (with permission of course)
 - Currently learning about digital forensics, networks and ethics
