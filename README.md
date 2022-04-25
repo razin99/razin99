@@ -2,7 +2,7 @@
 - Is a machine (JK)
 - Enjoy learning new concepts
 - Love to build stuff, and also break stuffs (with permission of course)
-- Currently learning about digital forensics, networks and ethics
+- Interested in cloud security and devsecops
 
 ![Razin's GitHub stats](https://github-readme-stats.vercel.app/api?username=razin99&count_private=true&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razin99&layout=compact&theme=onedark)
