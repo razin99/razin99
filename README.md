@@ -3,6 +3,7 @@
 - Enjoy learning new concepts
 - Love to build stuff, and also break stuffs (with permission of course)
 - Interested in cloud security and devsecops
+- Checkout [`money-trees`](https://github.com/cs9447-team2/money-trees/), a dependency manager and security tool my friends and I built, to address issues related to securing the supply chain.
 
 ![Razin's GitHub stats](https://github-readme-stats.vercel.app/api?username=razin99&count_private=true&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razin99&layout=compact&theme=onedark)
